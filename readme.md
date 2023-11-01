@@ -12,7 +12,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Run on with default values (in the root of this repo)
+Run with default values (in the root of this repo)
 
 ```
 python script.py
